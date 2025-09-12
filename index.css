@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow:hidden;
+
     font-family: 'Inter', sans-serif;
 
 
@@ -266,7 +266,7 @@
 
     }
     .famouswork{
-        margin-left: 250px;
+      text-align: center;
     }
    .fotter_h{
        text-align: center;
@@ -291,6 +291,9 @@
         width: 500px;
         padding:0;
     }
+    .famouswork{
+        text-align: center;
+    }
 }
 @media screen and (max-width: 890px) {
     .her h1 {
@@ -303,6 +306,18 @@
 
 
 
+    }
+    .section_three_one{
+        width: 400px;
+        margin-left: 200px;
+
+    }
+    .section_three_two{
+        width: 400px;
+        margin-left: 200px;
+    }
+    .famouswork{
+        text-align: center;
     }
     .borders{
         display: none;
@@ -335,13 +350,29 @@
 
 
 }
-@media screen and (max-width: 760px) {
+.famouswork{
+    text-align: center;
+}
+@media screen and (max-width:765px) {
     .her p {
         font-size: 12px;
         font-weight: 400;
         margin-left: 40px;
         color: rgba(255, 255, 255, 1);
         width: 600px;
+
+    }
+    .famouswork{
+        text-align: center;
+        margin-right: 200px;
+    }
+    .famouswork__one{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;justify-content: center;
+        margin-left: 170px;
+
+    }
+    .famouswork{
 
     }
     .her {
@@ -372,6 +403,15 @@
         width: 600px;
 
     }
+    .famouswork{
+        text-align: center;
+    }
+    .section_three_one{
+        margin-left: 130px;
+    }
+    .section_three_two{
+        margin-left: 130px;
+    }
     .her{
         background: url("./images/bacround.png") no-repeat center center;
         background-size: cover;
@@ -399,6 +439,9 @@
         color: rgba(255, 255, 255, 1);
         width: 600px;
 
+    }
+    .famouswork{
+        text-align: center;
     }
 
     .her {
@@ -430,6 +473,9 @@
         width: 500px;
 
     }
+    .famouswork{
+        text-align: center;
+    }
 
     .her {
         background: url("./images/bacround.png") no-repeat center center;
@@ -451,6 +497,25 @@
         flex-wrap: wrap;
 
     }
+
+}
+@media screen and (max-width: 590px) {
+    .famouswork{
+        text-align: center;
+        margin-right: 300px;
+    }
+    .famouswork__one{
+        margin-right: 200px;
+    }
+    .famouswork__one{
+        margin-left: 100px;
+    }
+    .section_three_one{
+        margin-left: 90px;
+    }
+    .section_three_two{
+        margin-left: 90px;
+    }
 }
 @media screen and (max-width: 530px) {
     .her p {
@@ -460,6 +525,9 @@
         color: rgba(255, 255, 255, 1);
         width: 400px;
 
+    }
+    .famouswork{
+        text-align: center;
     }
 
     .her {
@@ -493,6 +561,12 @@
         width: 400px;
 
     }
+.famouswork{
+    margin-right: 400px;
+}
+.section_three_one{
+    margin-left: 60px;
+}
 
     .her {
         background: url("./images/bacround.png") no-repeat center center;

@@ -1,34 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-*{
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    overflow: hidden;
     font-family: 'Inter', sans-serif;
-
-
 }
-.container{
+
+.container {
     max-width: 1200px;
     margin: 0 auto;
-
-
 }
-.logo{
+
+.logo {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
 }
-.header_text{
+
+.header_text {
     font-size: 14px;
     font-weight: 500;
 }
-.header_left{
+
+.header_left {
     display: flex;
     gap: 25px;
     align-items: center;
-    word-spacing: 3px;}
+    word-spacing: 3px;
+}
+
 .search-box {
     position: relative;
     display: flex;
@@ -57,52 +60,56 @@
     flex: 1;
 
 }
-.header_button{
+
+.header_button {
     font-size: 14px;
     font-weight: 700;
     background: rgba(26, 178, 229, 1);
     padding: 10px 20px 10px 16px;
     border-radius: 12px;
     border: none;
-
 }
-.header_right{
+
+.header_right {
     display: flex;
     gap: 35px;
 }
-.header_button_two{
+
+.header_button_two {
     font-size: 14px;
     font-weight: 700;
     background: rgba(240, 242, 245, 1);
     padding: 10px 20px 10px 16px;
     border-radius: 12px;
     border: none;
-
-
 }
-.buttons{
+
+.buttons {
     gap: 8px;
     display: flex;
 }
-.header_button_two:hover{
+
+.header_button_two:hover {
     background: red;
 }
-.header_button:hover{
+
+.header_button:hover {
     background: red;
 }
-.line{
+
+.line {
     background: grey;
     width: 100%;
     margin-top: 18px;
 }
+
 .container__one {
     width: 900px;
     margin: 0 auto;
-
 }
 
 .her {
-    background: url("./images/bacround.png") no-repeat center center;
+    background: url("images/bacround.png") no-repeat center center;
     background-size: cover;
     border-radius: 12px;
     padding: 40px 15px;
@@ -124,7 +131,6 @@
     margin-left: 50px;
     color: rgba(255, 255, 255, 1);
     width: 700px;
-
 }
 
 .searc {
@@ -147,7 +153,6 @@
     outline: none;
     font-size: 14px;
     color: rgba(99, 128, 135, 1);
-
 }
 
 .searc button {
@@ -159,142 +164,163 @@
     font-size: 14px;
     cursor: pointer;
 }
-.section_one{
+
+.section_one {
     margin-top: 36px;
 
 }
-.icon1{
+
+.icon1 {
     width: 18px;
     height: 18px;
     margin-left: 10px;
 }
-.searc button:hover{
+
+.searc button:hover {
     background: red;
 }
-.famouswork{
+
+.famouswork {
     margin-top: 36px;
 }
 
-.famouswork p{
-    font-size:22px;
+.famouswork p {
+    font-size: 22px;
     font-weight: bold;
 
 }
-.workk{
+
+.workk {
     text-align: center;
 }
-.alisa_p{
+
+.alisa_p {
     color: rgba(18, 23, 23, 1);
-    font-size: 16px ;
+    font-size: 16px;
     font-weight: 500;
     margin-top: 12px;
-
-
-
 }
-.famouswork_worker{
-  display: grid;
+
+.famouswork_worker {
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-
 }
-.famouswork__one{
 
+.famouswork__one {
 }
-.worker{
+
+.worker {
     margin-top: 28px;
 }
-.section_three{
+
+.section_three {
     margin-top: 52px;
 }
-.section_three_one{
+
+.section_three_one {
     font-weight: 900;
     font-size: 36px;
 }
 
-.section_three_two{
+.section_three_two {
     font-weight: 400;
     font-size: 16px;
     width: 650px;
     margin-top: 16px;
 }
-.fotter{
+
+.fotter {
     margin-top: 40px;
-  display: grid;
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 12px;
 
 }
-.borders{
-   padding: 16px;
+
+.borders {
+    padding: 16px;
     border-radius: 12px;
     margin-bottom: 200px;
     border: 1px solid rgba(219, 227, 229, 1)
 
 
 }
-.borders_text{
+
+.borders_text {
     font-size: 16px;
     font-weight: 700;
     margin-top: 12px;
 
 }
-.borders_text_two{
+
+.borders_text_two {
     font-size: 14px;
     font-weight: 400;
     margin-top: 4px;
     color: rgba(99, 128, 135, 1);
 }
-.borders_text_twon{
+
+.borders_text_twon {
     font-size: 14px;
     font-weight: 400;
     margin-top: 4px;
     color: rgba(99, 128, 135, 1);
     width: 220px;
 }
+
 @media screen and (max-width: 910px) {
     .her {
-        background: url("./images/bacround.png") no-repeat center center;
+        background: url("images/bacround.png") no-repeat center center;
         background-size: cover;
         border-radius: 12px;
         padding: 30px 0;
         text-align: center;
         color: #fff;
     }
-    .famouswork_worker{
+
+    .famouswork_worker {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr  ;
+        grid-template-columns: 1fr 1fr 1fr;
 
     }
-    .famouswork{
-      text-align: center;
+
+    .famouswork {
+
     }
-   .fotter_h{
-       text-align: center;
-   }
-    .section_three_two{
+
+    .fotter_h {
+        text-align: center;
+    }
+
+    .section_three_two {
         margin-left: 130px;
     }
-    .fotter{
+
+    .fotter {
         display: grid;
-        grid-template-columns: 1fr ;
+        grid-template-columns: 1fr;
         margin-left: 100px;
     }
 
 
 }
+
 @media screen and (max-width: 840px) {
-    .famouswork_worker{
+    .famouswork_worker {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
-    .borders_text_two{
+
+    .borders_text_two {
         width: 500px;
-        padding:0;
+        padding: 0;
     }
-    .famouswork{
+
+    .famouswork {
         text-align: center;
     }
 }
+
 @media screen and (max-width: 890px) {
     .her h1 {
         font-size: 30px;
@@ -305,55 +331,60 @@
         flex-wrap: wrap;
 
 
-
     }
-    .section_three_one{
+
+    .section_three_one {
         width: 400px;
         margin-left: 200px;
 
     }
-    .section_three_two{
+
+    .section_three_two {
         width: 400px;
         margin-left: 200px;
     }
-    .famouswork{
+
+    .famouswork {
         text-align: center;
     }
-    .borders{
+
+    .borders {
         display: none;
     }
-    .famouswork_worker{
+
+    .famouswork_worker {
         display: grid;
-        grid-template-columns: 1fr 1fr ;
+        grid-template-columns: 1fr 1fr;
 
     }
+
     .her {
-        background: url("./images/bacround.png") no-repeat center center;
+        background: url("images/bacround.png") no-repeat center center;
         background-size: cover;
         border-radius: 12px;
-        padding: 20px ;
+        padding: 20px;
         text-align: center;
         color: #fff;
     }
 
 
-
 }
+
 @media screen and (max-width: 800px) {
-    .logo{
+    .logo {
 
         flex-direction: column;
         gap: 30px;
     }
 
 
-
-
 }
-.famouswork{
+
+.famouswork {
     text-align: center;
 }
-@media screen and (max-width:765px) {
+
+@media screen and (max-width: 765px) {
     .her p {
         font-size: 12px;
         font-weight: 400;
@@ -362,28 +393,32 @@
         width: 600px;
 
     }
-    .famouswork{
-        text-align: center;
+
+    .famouswork {
+
         margin-right: 200px;
     }
-    .famouswork__one{
+
+    .famouswork__one {
         display: grid;
-        grid-template-columns: 1fr 1fr ;justify-content: center;
+        grid-template-columns: 1fr 1fr;
+        justify-content: center;
         margin-left: 170px;
 
     }
-    .famouswork{
 
-    }
+
+
     .her {
-        background: url("./images/bacround.png") no-repeat center center;
+        background: url("images/bacround.png") no-repeat center center;
         background-size: cover;
         border-radius: 12px;
-        padding: 20px ;
+        padding: 20px;
         text-align: center;
         color: #fff;
         width: 764px;
     }
+
     .her h1 {
         font-size: 30px;
         font-weight: 600;
@@ -394,6 +429,7 @@
 
     }
 }
+
 @media screen and (max-width: 670px) {
     .her p {
         font-size: 12px;
@@ -403,24 +439,29 @@
         width: 600px;
 
     }
-    .famouswork{
-        text-align: center;
+
+    .famouswork {
+
     }
-    .section_three_one{
+
+    .section_three_one {
         margin-left: 130px;
     }
-    .section_three_two{
+
+    .section_three_two {
         margin-left: 130px;
     }
-    .her{
-        background: url("./images/bacround.png") no-repeat center center;
+
+    .her {
+        background: url("images/bacround.png") no-repeat center center;
         background-size: cover;
         border-radius: 12px;
-        padding: 20px ;
+        padding: 20px;
         text-align: center;
         color: #fff;
         width: 670px;
     }
+
     .her h1 {
         font-size: 30px;
         font-weight: 600;
@@ -431,6 +472,7 @@
 
     }
 }
+
 @media screen and (max-width: 640px) {
     .her p {
         font-size: 12px;
@@ -440,12 +482,13 @@
         width: 600px;
 
     }
-    .famouswork{
+
+    .famouswork {
         text-align: center;
     }
 
     .her {
-        background: url("./images/bacround.png") no-repeat center center;
+        background: url("images/bacround.png") no-repeat center center;
         background-size: cover;
         border-radius: 12px;
         padding: 20px;
@@ -464,6 +507,7 @@
 
     }
 }
+
 @media screen and (max-width: 620px) {
     .her p {
         font-size: 12px;
@@ -473,12 +517,13 @@
         width: 500px;
 
     }
-    .famouswork{
+
+    .famouswork {
         text-align: center;
     }
 
     .her {
-        background: url("./images/bacround.png") no-repeat center center;
+        background: url("images/bacround.png") no-repeat center center;
         background-size: cover;
         border-radius: 12px;
         padding: 20px;
@@ -491,7 +536,7 @@
     .her h1 {
         font-size: 30px;
         font-weight: 600;
-       align-items: center;
+        align-items: center;
         width: 500px;
         margin-top: 130px;
         flex-wrap: wrap;
@@ -499,24 +544,30 @@
     }
 
 }
+
 @media screen and (max-width: 590px) {
-    .famouswork{
+    .famouswork {
         text-align: center;
         margin-right: 300px;
     }
-    .famouswork__one{
+
+    .famouswork__one {
         margin-right: 200px;
     }
-    .famouswork__one{
+
+    .famouswork__one {
         margin-left: 100px;
     }
-    .section_three_one{
+
+    .section_three_one {
         margin-left: 90px;
     }
-    .section_three_two{
+
+    .section_three_two {
         margin-left: 90px;
     }
 }
+
 @media screen and (max-width: 530px) {
     .her p {
         font-size: 12px;
@@ -526,12 +577,13 @@
         width: 400px;
 
     }
-    .famouswork{
+
+    .famouswork {
         text-align: center;
     }
 
     .her {
-        background: url("./images/bacround.png") no-repeat center center;
+        background: url("images/bacround.png") no-repeat center center;
         background-size: cover;
         border-radius: 12px;
         padding: 20px;
@@ -552,6 +604,7 @@
 
     }
 }
+
 @media screen and (max-width: 509px) {
     .her p {
         font-size: 12px;
@@ -561,15 +614,17 @@
         width: 400px;
 
     }
-.famouswork{
-    margin-right: 400px;
-}
-.section_three_one{
-    margin-left: 60px;
-}
+
+    .famouswork {
+        margin-right: 400px;
+    }
+
+    .section_three_one {
+        margin-left: 60px;
+    }
 
     .her {
-        background: url("./images/bacround.png") no-repeat center center;
+        background: url("images/bacround.png") no-repeat center center;
         background-size: cover;
         border-radius: 12px;
         padding: 20px;

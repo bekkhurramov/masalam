@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5853f1-5eb0-4202-9e68-7005587c5b51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/masalar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masalar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/responsive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/alisa.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/alisa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/asal.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/asal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bacround.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/bacround.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chumcuq.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/chumcuq.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/h.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/h.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/habar.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/habar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lampocka.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/lampocka.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/onbring.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/onbring.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/onbrink.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/onbrink.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/search.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/true.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/true.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/uvaz.png" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/images/uvaz.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/responsive/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/masalarr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masalarr/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +69,12 @@
       <workItem from="1757611698375" duration="709000" />
       <workItem from="1757659993746" duration="4377000" />
       <workItem from="1757847540659" duration="1593000" />
-      <workItem from="1757850039116" duration="8331000" />
+      <workItem from="1757850039116" duration="8636000" />
+      <workItem from="1757939615980" duration="22000" />
+      <workItem from="1757939649603" duration="7000" />
+      <workItem from="1757981768032" duration="2755000" />
+      <workItem from="1758039085230" duration="902000" />
+      <workItem from="1758110047685" duration="4605000" />
     </task>
     <servers />
   </component>

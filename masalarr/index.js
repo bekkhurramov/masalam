@@ -76,4 +76,4 @@ function powerA3(x) {
 // let C = 3.0;
 // console.log("A =", A, "→", Power234(A));
 // console.log("B =", B, "→", Power234(B));
-// console.log("C =", C, "→", Power234(C));
+ console.log("C =", C, "→", Power234(C));

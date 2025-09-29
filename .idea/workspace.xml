@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5853f1-5eb0-4202-9e68-7005587c5b51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/masalarr/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masalarr/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Bobur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Este Leader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Kate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Qubit..svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Radisoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Revir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/TJX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/lmx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/mainimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/sss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masalar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/masalar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masalar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/masalar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masalarr/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/masalarr/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +46,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/untitled/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/untitled/figma/img&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -43,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\untitled\figma\img" />
       <recent name="D:\untitled\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -74,7 +89,11 @@
       <workItem from="1757939649603" duration="7000" />
       <workItem from="1757981768032" duration="2755000" />
       <workItem from="1758039085230" duration="902000" />
-      <workItem from="1758110047685" duration="4605000" />
+      <workItem from="1758110047685" duration="5503000" />
+      <workItem from="1758378702594" duration="9688000" />
+      <workItem from="1758983114829" duration="2866000" />
+      <workItem from="1759040358572" duration="2682000" />
+      <workItem from="1759051748614" duration="4669000" />
     </task>
     <servers />
   </component>

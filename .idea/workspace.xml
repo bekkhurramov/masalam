@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5853f1-5eb0-4202-9e68-7005587c5b51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/figma/soat/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figma/soat/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figma/soat/sript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figma/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/figma/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <workItem from="1758983114829" duration="2866000" />
       <workItem from="1759040358572" duration="2682000" />
       <workItem from="1759051748614" duration="4669000" />
-      <workItem from="1759144407086" duration="7841000" />
+      <workItem from="1759144407086" duration="8208000" />
     </task>
     <servers />
   </component>

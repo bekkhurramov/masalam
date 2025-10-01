@@ -7,30 +7,25 @@
     text-decoration: none;
     font-family: "Roboto Light", serif;
 }
-
 .container {
     width: 1440px;
     margin: 0 auto;
 }
-
 .header {
     display: flex;
     justify-content: space-between;
     margin-top: 200px;
     align-items: center;
 }
-
 .header__a {
     font-size: 14px;
     font-weight: normal;
     color: #1C1C1C;
 }
-
 .header__one {
     display: flex;
     gap: 40px;
 }
-
 .header__button {
     font-size: 14px;
     font-weight: normal;
@@ -40,14 +35,12 @@
     border-radius: 20px;
     border: transparent;
 }
-
 .header__two {
     display: flex;
     gap: 34px;
     align-items: center;
 
 }
-
 .main__one {
     background-image: url("./img/mainimg.png");
     background-size: cover;
